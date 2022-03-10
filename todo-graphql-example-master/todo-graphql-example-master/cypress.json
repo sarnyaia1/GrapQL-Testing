@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:1234",
+  "testFiles": "**/*spec*.*",
+  "video": false,
+  "projectId": "ahwxj4",
+  "env": {
+    "grepFilterSpecs": true,
+    "grepOmitFiltered": true
+  },
+  "screenshotOnRunFailure": true
+}
