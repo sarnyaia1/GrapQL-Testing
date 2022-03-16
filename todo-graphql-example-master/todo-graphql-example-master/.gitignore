@@ -1,6 +1,0 @@
-node_modules/
-dist
-.cache
-cypress/screenshots
-cypress/videos
-.parcel-cache/
